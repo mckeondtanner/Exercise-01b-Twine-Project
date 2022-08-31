@@ -1,6 +1,6 @@
 # Exercise-01b-Twine-Project
 
-Exercise for MSCH-C220
+Exercise for McKeon Tanner
 
 A demonstration of this exercise is available at [https://youtu.be/VVd_8dvao9E](https://youtu.be/VVd_8dvao9E).
 
